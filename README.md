@@ -1,11 +1,4 @@
 # crawl-data-twitter-with-py
-
-Baik! Saya akan memperluas README.md untuk mencakup proses crawling data dari Twitter. Meskipun saya tidak memiliki kode spesifik untuk itu, saya akan menyusun bagian README tentang proses crawling dengan asumsi bahwa Anda melakukan crawling data dari Twitter, yang biasanya melibatkan penggunaan API Twitter atau library seperti Tweepy.
-
-Berikut adalah README.md yang diperbarui:
-
----
-
 # Text Processing and Twitter Data Crawling Project
 
 This repository contains a project focused on text processing, specifically related to processing and analyzing textual data in the context of agricultural information. Additionally, it includes code for crawling data from Twitter to gather real-time or historical tweets for analysis.
